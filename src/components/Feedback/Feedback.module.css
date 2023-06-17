@@ -1,0 +1,26 @@
+.statistics {
+    /* display: flex;
+    flex-direction: column; */
+    background-color: rgb(159, 184, 184);
+    padding: 20px;
+}
+
+.response{
+    display: flex;
+    flex-direction: column;
+}
+
+.responseBtn{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+button{
+    padding: 12px;
+    border-radius: 10px;
+    font-size: 24px;
+}
