@@ -1,0 +1,14 @@
+.btnBox{
+       display: flex;
+    flex-direction: row;
+    column-gap: 50px; 
+}
+
+.btnCount {
+    padding: 12px;
+border-radius: 10px;
+background-color: #043433;
+color: aliceblue;
+font-size: 24px;
+font-weight: bold;
+}

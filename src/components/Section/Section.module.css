@@ -1,0 +1,10 @@
+.feedbackItem{
+    background-color: rgb(132, 156, 156);
+    width: calc(100% - 1000px);
+    padding: 50px;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
